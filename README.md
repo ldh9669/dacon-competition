@@ -99,5 +99,5 @@ Accuracy: 0.7221418234442837
 ```
 IV. 대회 및 채점 점수
 --------
-35등 / 506명, 0.51774
+private 35등 / 506명, 0.51774
 ![image](https://github.com/ldh9669/dacon-competition/assets/98334298/ec719c9e-0c60-43f3-be0a-febbf662ff96)
